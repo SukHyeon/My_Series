@@ -1,4 +1,7 @@
-# My Series
+# My_Series
+* [My_Diary](My_Diary)
+
+# My_Diary
 
 ## 개요
 * 나의 하루를 기록, 지난 날의 기록이나 미래의 계획을 상기시켜줄 어플
